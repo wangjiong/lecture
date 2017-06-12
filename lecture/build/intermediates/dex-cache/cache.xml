@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\lecture\final\lecture\lecture\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="F:\lecture\final\lecture\lecture\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_9f9f4dae2a32d86ae09fda9c2549bc4ddcffb849.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="F:\lecture\final\lecture\lecture\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_062ad37633a99321e6a59b7344ab769e17e3db55.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="F:\lecture\final\lecture\lecture\build\intermediates\pre-dexed\debug\gson-2.3.1_3d67bc6296728dce11d45e3fe02a4d0f0bf336e9.jar" />
+    </item>
+    <item
+        jar="F:\lecture\final\lecture\lecture\build\intermediates\exploded-aar\lecture\initActivity\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a792fd6bc2d7494d7f4e3dd622fa0b28bcaabba1">
+        <dex dex="F:\lecture\final\lecture\lecture\build\intermediates\pre-dexed\debug\lecture-initActivity-unspecified_b4a84bcd1adb488d613199d1b2db5922a3941d03.jar" />
+    </item>
+    <item
+        jar="F:\lecture\final\lecture\lecture\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="F:\lecture\final\lecture\lecture\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_8b0e33c0f6cabe65e30f0ca6a3b48cc0352a927d.jar" />
+    </item>
+
+</items>

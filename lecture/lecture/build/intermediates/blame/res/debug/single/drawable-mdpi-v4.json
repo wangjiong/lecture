@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\player_silence.png",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\drawable-mdpi\\player_silence.png"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\page_indicator_focused1.png",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\drawable-mdpi\\page_indicator_focused1.png"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\player_silence.png",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\drawable-mdpi\\player_silence.png"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\page_indicator1.png",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\drawable-mdpi\\page_indicator1.png"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\page_indicator_focused1.png",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\drawable-mdpi\\page_indicator_focused1.png"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pulltorefresh.png",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\drawable-mdpi\\pulltorefresh.png"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\player_volume.png",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\drawable-mdpi\\player_volume.png"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pulltorefresh.png",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\drawable-mdpi\\pulltorefresh.png"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\player_volume.png",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\drawable-mdpi\\player_volume.png"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\page_indicator1.png",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\drawable-mdpi\\page_indicator1.png"
+    }
+]

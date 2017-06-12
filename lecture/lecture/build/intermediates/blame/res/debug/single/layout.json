@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\item_fragment.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\item_fragment.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\more_item.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\more_item.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\media_controller.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\media_controller.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\person_history.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\person_history.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\movie_image.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\movie_image.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\person_history.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\person_history.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\pull_view.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\pull_view.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\movie_line.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\movie_line.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\media.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\media.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\person_history_item.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\person_history_item.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\item_person.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\item_person.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\movie_item_image_rec.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\movie_item_image_rec.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\person_download_item.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\person_download_item.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\item_recommend.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\item_recommend.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\mediacontroller.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\exploded-aar\\lecture\\initActivity\\unspecified\\res\\layout\\mediacontroller.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\pull_view.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\pull_view.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\person_download.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\person_download.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\item_recommend.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\item_recommend.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\mediacontroller.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\exploded-aar\\lecture\\initActivity\\unspecified\\res\\layout\\mediacontroller.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\search.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\more_item.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\more_item.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\movie_intro.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\movie_intro.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\media.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\media.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\media_controller.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\media_controller.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\person_history_item.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\person_history_item.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\person_download.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\person_download.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\movie_intro.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\movie_intro.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\movie_item_image_rec.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\movie_item_image_rec.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\person_download_item.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\person_download_item.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\item_fragment.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\item_fragment.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\movie_line.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\movie_line.xml"
+    },
+    {
+        "merged": "F:\\project20170105\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\movie_image.xml",
+        "source": "F:\\project20170105\\lecture\\lecture\\src\\main\\res\\layout\\movie_image.xml"
+    },
+    {
+        "merged": "F:\\lecture\\final\\lecture\\lecture\\build\\intermediates\\res\\merged\\debug\\layout\\item_person.xml",
+        "source": "F:\\lecture\\final\\lecture\\lecture\\src\\main\\res\\layout\\item_person.xml"
+    }
+]

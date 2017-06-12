@@ -1,0 +1,22 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        maven { url project.MAVEN_URL }
+        //jcenter()
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:$project.ANDROID_PLUGIN_VERSION"
+        classpath 'com.droidtitan:lint-cleaner-plugin:0.3.0'
+    }
+}
+allprojects {
+    repositories {
+        maven { url rootProject.MAVEN_URL }
+        maven { url rootProject.MAVEN_THIRD_URL }
+        maven { url rootProject.MAVEN_THIRD_SNAP_URL }
+//        jcenter()
+    }
+}
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
